@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877087279604",
+    "project_id": "signin-8837a",
+    "storage_bucket": "signin-8837a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877087279604:android:5aaea12e1cfbc1fde9d1a1",
+        "android_client_info": {
+          "package_name": "com.example.googlesigninfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877087279604-2bjr65olqulv3cd92lccc219ab3avjuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuWKQLcDoPQqY8qvz-tA0WWVvx86jvWTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877087279604-2bjr65olqulv3cd92lccc219ab3avjuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
